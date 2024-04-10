@@ -1,0 +1,21 @@
+UNIT  1 : -- Programming and computational thinking
+	chapter 1		Revision of the basics of python
+	chapter 2	Functions in python
+	chapter 3 	File handling
+	chapter 4	Using python libraries
+	chapter 5	Recursion
+	chapter 6	Idea of efficiency
+	chapter 7		Data visualization using pyplot
+	chapter 8	Data structures
+
+UNIT 2  : -- Computer network
+	chapter 9	Computer network
+	chapter 10	Computer networks-II
+
+UNIT 3 : -- Data management
+	chapter 11	Django
+	chapter 12	Interface python with an sql database
+	chapter 13	Sql commands: Aggregation finctions - Having, group by,order by
+	
+UNIT 4 : -- Society , law and ethics
+	chapter 14	Society, Law and  Ethics
